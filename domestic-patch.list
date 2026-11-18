@@ -1,0 +1,11 @@
+# Shadowrocket RULE-SET — reviewed V1.1 exact-host patch
+# Do not add policy field DIRECT to these remote entries.
+DOMAIN,y.gtimg.cn
+DOMAIN,api.tencentmusic.com
+DOMAIN,p9-ppx-sign.byteimg.com
+DOMAIN,p6-ppx-sign.byteimg.com
+DOMAIN,lf-webcast-gr-sourcecdn.bytegecko.com
+DOMAIN,pull-flv-q13.douyincdn.com
+DOMAIN,dataflow.biliapi.com
+DOMAIN,jstatic.3.cn
+DOMAIN,g.alicdn.com
